@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 I'm Bharadwaj Reddy
 
-<!--
-**bharadwajreddy-tech/bharadwajreddy-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Developer | AI/ML Explorer | UI/UX Enthusiast  
+💡 I’m passionate about building impactful tech that solves real-world problems  
+🌱 Currently learning: Python, Machine Learning, GitHub, and Project Building  
+🔧 Tools I use: Python, VS Code, Git, Google Colab, Figma, and a bunch of curiosity
 
-Here are some ideas to get you started:
+ 
+🛠️ Projects in Progress
+- 🚧 Python-basics  → Building my coding foundations from scratch  
+- 🤖 Ai-chatbot → Experimenting with OpenAI APIs and chat logic  
+- 📊 Data-visualizer → Making cool dashboards using real datasets  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 My Goal
+To master AI + Software + UI and become a complete problem-solving machine by 2026.  
+Currently working on upskilling through real projects.
+
+🌐 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/bharadwajredyk/) 
+- 📬 bharadwajreddy.tech@gmail.com 
+- 🧠 Learning out loud, one commit at a time 🚀
